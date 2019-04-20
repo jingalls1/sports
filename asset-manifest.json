@@ -1,14 +1,13 @@
 {
-  "main.css": "/github.io/sports/static/css/main.1f9c0b6a.chunk.css",
-  "main.js": "/github.io/sports/static/js/main.2c8bd047.chunk.js",
-  "main.js.map": "/github.io/sports/static/js/main.2c8bd047.chunk.js.map",
+  "main.css": "/github.io/sports/static/css/main.584b133a.chunk.css",
+  "main.js": "/github.io/sports/static/js/main.1d19f0a0.chunk.js",
+  "main.js.map": "/github.io/sports/static/js/main.1d19f0a0.chunk.js.map",
   "runtime~main.js": "/github.io/sports/static/js/runtime~main.76494504.js",
   "runtime~main.js.map": "/github.io/sports/static/js/runtime~main.76494504.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/github.io/sports/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/github.io/sports/static/js/2.6efc73d3.chunk.js.map",
+  "static/js/2.528c2e11.chunk.js": "/github.io/sports/static/js/2.528c2e11.chunk.js",
+  "static/js/2.528c2e11.chunk.js.map": "/github.io/sports/static/js/2.528c2e11.chunk.js.map",
   "index.html": "/github.io/sports/index.html",
-  "precache-manifest.8f4c014726cd0a3c6c83e24c99d77416.js": "/github.io/sports/precache-manifest.8f4c014726cd0a3c6c83e24c99d77416.js",
+  "precache-manifest.492abb57d1e1da0c0e87ee7534f2c1be.js": "/github.io/sports/precache-manifest.492abb57d1e1da0c0e87ee7534f2c1be.js",
   "service-worker.js": "/github.io/sports/service-worker.js",
-  "static/css/main.1f9c0b6a.chunk.css.map": "/github.io/sports/static/css/main.1f9c0b6a.chunk.css.map",
-  "static/media/logo.svg": "/github.io/sports/static/media/logo.5d5d9eef.svg"
+  "static/css/main.584b133a.chunk.css.map": "/github.io/sports/static/css/main.584b133a.chunk.css.map"
 }
