@@ -1,3 +1,4 @@
+// jshint esversion: 6
 import React from "react";
 import NBA from "./nba.js";
 import MLB from "./mlb.js";
@@ -5,6 +6,9 @@ import NFL from "./nfl.js";
 import Soccer from "./soccer.js";
 import { Button } from "@material-ui/core";
 import "./styles.css";
+import ReactDOM from 'react-dom';
+import { Component } from "react";
+
 
 export default class App extends React.Component {
   constructor(props) {
