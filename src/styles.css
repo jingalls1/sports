@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+}
+.App h1 {
+  font-size: 2em;
+  color: white;
+  text-shadow: 3px 3px 10px black;
+}
+.App h2 {
+  font-size: 1.3em;
+  color: white;
+}
+.CenterDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Table {
+  display: table;
+}
+.Table .Row {
+  display: table-row;
+}
+.Table .Cell {
+  display: table-cell;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 0.9em;
+  text-align: left;
+}
+.Clickable {
+  cursor: pointer;
+}
+.Clickable:hover {
+  background-color: #ff7b25;
+}
+
+.nba {
+  background-color: orange;
+}
+
+body {
+  background-image: linear-gradient(gray, white);
+  height: 100vh;
+}
